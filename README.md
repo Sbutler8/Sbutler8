@@ -7,7 +7,7 @@ The fullfillment I feel once completing a project only makes me want to jump rig
 
 ## Languages & Tools
 
-- Languages: JavaScript, Python, C++
+- Languages: TypeScript, JavaScript, Python, C++
 - Frameworks and Libraries: Node, Express, Flask, React, Redux, learning Angular
 - Databases: PostgreSQL
 - Other:  Docker
