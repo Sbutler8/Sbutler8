@@ -13,8 +13,23 @@ The fullfillment I feel once completing a project only makes me want to jump rig
 - Other:  Docker
 - Design: CSS3, HTML5, Styled Components, Material UI, d3, custom SVG's
 
-
-![JS](https://github.com/harshcut/harshcut/blob/master/static/javascript.svg)   ![Python](https://github.com/harshcut/harshcut/blob/master/static/python.svg)   ![Node](https://github.com/harshcut/harshcut/blob/master/static/nodejs.svg)   ![Express](https://github.com/harshcut/harshcut/blob/master/static/expressjs.svg)   ![POstgreSQL](https://github.com/harshcut/harshcut/blob/master/static/postgresql.svg)   ![React](https://github.com/harshcut/harshcut/blob/master/static/react.svg)   ![Redux](https://github.com/harshcut/harshcut/blob/master/static/redux.svg)   ![Heroku](https://github.com/harshcut/harshcut/blob/master/static/heroku.svg)  ![Postman](https://github.com/harshcut/harshcut/blob/master/static/postman.svg)   ![VSCode](https://github.com/harshcut/harshcut/blob/master/static/vscode.svg) ![Illustrator](https://github.com/harshcut/harshcut/blob/master/static/illustrator.svg)
+<a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" /></a>
+<a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /></a>
+<a href="https://redux.js.org/"><img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" /></a>
+<a href="https://reactrouter.com/"><img alt="React Router" src="https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=React-Router&logoColor=white" /></a>
+<a href="https://developers.google.com/maps"><img alt="Google Maps" src="https://img.shields.io/badge/-Google%20Maps-4285F4?style=flat-square&logo=Google%20Maps&logoColor=white" /></a>
+<a href="https://devdocs.io/css/"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3%20-61DAFB?style=flat-square&logo=CSS3&logoColor=white&color=brightgreen"/></a>
+<a href="https://devdocs.io/html/"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5%20-61DAFB?style=flat-square&logo=HTML5&logoColor=white&color=blue"/></a>
+<a href="https://github.com/d3/"><img alt="d3" src="https://img.shields.io/badge/-d3%20-orange?style=flat-square&logo=d3%20&logoColor=white" /></a>
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&" /></a>
+<a href="https://flask.palletsprojects.com/en/1.1.x/"><img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" /></a>
+<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" /></a>
+<a href="https://aws.amazon.com/"><img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" /></a>
+<a href="https://flask-socketio.readthedocs.io/en/latest/"><img alt="Flask SocketIO" src="https://img.shields.io/badge/Flask%20SocketIO-Flask%20SocketIObrightgreen" /></a>
+<a href="https://socket.io/docs/v3/index.html"><img alt="socket.io" src="https://img.shields.io/badge/socket.io-socket.io-red" /></a>
+<a href="https://expressjs.com/"><img alt="Express" src="https://img.shields.io/badge/-Express-764ABC?style=flat-square&logo=Express&logoColor=white" /></a>
+<a href="https://reactrouter.com/"><img alt="React Router" src="https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=React-Router&logoColor=white" /></a>
+<a href="https://sequelize.org/"><img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize%20ORM-000000?style=flat-square&logo=Sequelize%20ORM&logoColor=white" /></a>
  
  ## My GitHub Stats
 
