@@ -1,6 +1,6 @@
 # Samantha Butler | Full Stack Software Electrical Engineer 
 
-Loves to know a lot about a lot! I haven't let recently being laid off from Shopify stop my drive and passion for coding. After spending a month long traveling the World I have been studying Java, machine learning, and building a complex microservice microfrontend architectured app.
+Loves to know a lot about a lot! I haven't let recently being laid off from Shopify stop my drive and passion for coding. After spending a month long traveling the World I have been studying Java, machine learning, and building a complex microservice microfrontend architectured app. I thrive in environments where my knowledge and skillset is tested daily, and am not scared by a blank canvas. 
 
 ## Languages & Tools
 
